@@ -25,7 +25,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-ReactJs, NodeJs, PHP, JavaScrypt, Python, MongoDB, MySql, HTML/CSS, git/bitbucket, jira/asana, docker etc
+1. ReactJs, NodeJs, PHP, JavaScript, Python
+2. Typscript
+4. MongoDB, MySql, PostgreSQL
+5. ReactNative, Ionic, Flutter, Android-studio
+6. Jest, Enzyme
+7. HTML/CSS, 
+8. GIT, Bitbucket, Asaana, ClickUp, Jira
+9. Docker, Kubernetes, Vercel Deployements
 
 ---
 
