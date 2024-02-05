@@ -25,12 +25,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-1. ReactJs, NodeJs, PHP, JavaScript, Python
-2. Typscript
-4. MongoDB, MySql, PostgreSQL
-5. ReactNative, Ionic, Flutter, Android-studio
-6. Jest, Enzyme
-7. HTML/CSS, 
+1. ReactJs, NodeJs, PHP, JavaScript, Python, VueJs
+2. AWS
+3. Typscript
+4. MongoDB, MySql, PostgreSQL, SupaBase
+5. ReactNative, Ionic, Flutter, Android-studio, Expo
+6. Jest, Enzyme, UNIT Testing
+7. HTML/CSS, Bootstrap, Material UI
 8. GIT, Bitbucket, Asaana, ClickUp, Jira
 9. Docker, Kubernetes, Vercel Deployements
 
